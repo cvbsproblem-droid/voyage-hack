@@ -1,0 +1,9 @@
+{
+  "name": "VoyageAI: Intelligent Itinerary Planner",
+  "description": "A high-end AI travel planner that converts natural language intent into interactive, visual flowcharts with dynamic pricing and Google Maps grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
